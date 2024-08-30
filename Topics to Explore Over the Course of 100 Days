@@ -18,6 +18,7 @@
 #Day 14: Write a small program to encrypt and decrypt a message using a simple cipher.
 
 ### Week 5-8: Practical Cryptography on Linux
+
 #Day 15: Practice using `openssl` commands to generate keys and encrypt data.
 #Day 16: Explore `gpg` for secure communication and document signing.
 #Day 17: Install and configure a VPN on Linux to understand encrypted traffic.
@@ -27,6 +28,7 @@
 #Day 21: Write a script using hashing functions to verify file integrity.
 
 ### Week 9-12: Cryptographic Mathematics
+
 #Day 22: Explore the mathematics behind encryption (e.g., modular arithmetic).
 #Day 23: Study prime number generation and its importance in cryptography.
 #Day 24: Learn the Diffie-Hellman key exchange protocol.
@@ -36,6 +38,7 @@
 #Day 28: Implement basic modular arithmetic for RSA encryption in Python.
 
 ### Week 13-16: Cryptanalysis and Breaking Ciphers
+
 #Day 29: Study various cryptanalytic techniques (e.g., brute force, side-channel attacks).
 #Day 30: Learn about the breaking of Enigma and other historical breakthroughs.
 #Day 31: Explore frequency analysis to break simple ciphers.
@@ -53,6 +56,7 @@
 #Day 41: Write a program to generate and verify digital signatures.
 
 ### Week 21-24: Cryptographic Protocols and Tools
+
 #Day 42: Study the Kerberos authentication protocol.
 #Day 43: Explore OAuth and OpenID for secure API authentication.
 #Day 44: Learn about SSH and its secure remote access capabilities.
@@ -62,6 +66,7 @@
 #Day 48: Automate SSH key generation and remote access setup via a script.
 
 ### Week 25-28: Advanced Cryptographic Algorithms
+
 #Day 49: Learn about AES encryption, including block cipher modes and key sizes.
 #Day 50: Explore stream ciphers (e.g., RC4) and their differences from block ciphers.
 #Day 51: Study and implement the Blowfish and Twofish algorithms.
@@ -71,6 +76,7 @@
 #Day 55: Study hybrid encryption, combining RSA and AES in secure applications.
 
 ### Week 29-32: Cryptography in Blockchain and Cryptocurrencies
+
 #Day 56: Explore cryptography's role in blockchain transactions.
 #Day 57: Investigate cryptographic hash functions in blockchains (e.g., SHA-256 in Bitcoin).
 #Day 58: Study Merkle trees and their role in fast, secure verification of blockchain data.
@@ -80,6 +86,7 @@
 #Day 62: Write a Python script to generate and verify blockchain-like hashes.
 
 ### Week 33-36: Secure Communication Protocols
+
 #Day 63: Study the Signal Protocol for end-to-end encrypted messaging.
 #Day 64: Investigate how HTTPS secures web communications.
 #Day 65: Learn about WireGuard VPN protocol and its cryptographic foundations.
@@ -89,6 +96,7 @@
 #Day 69: Write a script to securely send encrypted messages between clients over a network.
 
 ### Week 37-40: Post-Quantum Cryptography
+
 #Day 70: Learn why quantum computing threatens classical cryptography.
 #Day 71: Study lattice-based cryptography as a quantum-resistant method.
 #Day 72: Explore the NIST post-quantum cryptography project.
@@ -97,6 +105,7 @@
 #Day 75: Implement a simple quantum-safe encryption scheme in Python.
 
 ### Week 41-44: Real-World Cryptography in Action
+
 #Day 76: Learn how encryption secures mobile apps (e.g., securing API communications).
 #Day 77: Study the use of cryptography in IoT devices and sensors.
 #Day 78: Explore homomorphic encryption and its applications in secure computing.
@@ -105,6 +114,7 @@
 #Day 81: Write a Python program that encrypts and decrypts files based on user permissions.
 
 ### Week 45-48: Cryptography and Artificial Intelligence
+
 #Day 82: Explore how cryptography is used in AI (e.g., encrypted machine learning models).
 #Day 83: Study how AI can break encryption through pattern recognition.
 #Day 84: Investigate federated learning and its use of encryption to secure data privacy.
@@ -112,6 +122,7 @@
 #Day 86: Write a simple AI model to predict encryption weaknesses.
 
 ### Week 49-52: Final Review and Challenges
+
 #Day 87: Review different types of ciphers and cryptanalytic techniques.
 #Day 88: Study key management techniques and their importance in encryption.
 #Day 89: Investigate PKI implementation in cloud services.
