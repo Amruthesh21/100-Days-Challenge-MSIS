@@ -1,139 +1,139 @@
-# Topics to Explore Over the Course of 100 Days
+Topics to Explore Over the Course of 100 Days
 
-### Week 1-4: Introduction to Cybersecurity and Threats
+Week 1-4: Introduction to Cybersecurity and Threats
 
-#Day 1: Explore the different Operating Systems used for cybersecurity.
-#Day 2: Investigate how security has evolved over time.
-#Day 3: Learn the terms Threat, Vulnerability, Attack, Risk, Exploit, Asset, and Impact.
-#Day 4: Study various types of threats (Technical, Social Engineering, Physical, Operational).
-#Day 5: Model a potential threat scenario for a hypothetical organization or system.
-#Day 6: Understand the CIA Triad (Confidentiality, Integrity, Availability) in cybersecurity.
-#Day 7: Delve into the history of encryption before computers (e.g., Caesar Cipher, Enigma Machine).
-#Day 8: Explore the basic principles of symmetric and asymmetric encryption.
-#Day 9: Study the DES algorithm and its limitations.
-#Day 10: Learn about RSA and its impact on public-key cryptography.
-#Day 11: Explore cryptographic hash functions (e.g., MD5, SHA-1).
-#Day 12: Examine the history of cryptography during wartime.
-#Day 13: Understand cryptology’s role in modern-day cybersecurity.
-#Day 14: Write a small program to encrypt and decrypt a message using a simple cipher.
+Day 1: Explore the different Operating Systems used for cybersecurity.
+Day 2: Investigate how security has evolved over time.
+Day 3: Learn the terms Threat, Vulnerability, Attack, Risk, Exploit, Asset, and Impact.
+Day 4: Study various types of threats (Technical, Social Engineering, Physical, Operational).
+Day 5: Model a potential threat scenario for a hypothetical organization or system.
+Day 6: Understand the CIA Triad (Confidentiality, Integrity, Availability) in cybersecurity.
+Day 7: Delve into the history of encryption before computers (e.g., Caesar Cipher, Enigma Machine).
+Day 8: Explore the basic principles of symmetric and asymmetric encryption.
+Day 9: Study the DES algorithm and its limitations.
+Day 10: Learn about RSA and its impact on public-key cryptography.
+Day 11: Explore cryptographic hash functions (e.g., MD5, SHA-1).
+Day 12: Examine the history of cryptography during wartime.
+Day 13: Understand cryptology’s role in modern-day cybersecurity.
+Day 14: Write a small program to encrypt and decrypt a message using a simple cipher.
 
-### Week 5-8: Practical Cryptography on Linux
+Week 5-8: Practical Cryptography on Linux
 
-#Day 15: Practice using `openssl` commands to generate keys and encrypt data.
-#Day 16: Explore `gpg` for secure communication and document signing.
-#Day 17: Install and configure a VPN on Linux to understand encrypted traffic.
-#Day 18: Study how `iptables` can be used to secure network communications.
-#Day 19: Use Linux tools (`gpg`, `openssl`) to encrypt/decrypt files.
-#Day 20: Investigate SSL/TLS certificates and their role in securing web communications.
-#Day 21: Write a script using hashing functions to verify file integrity.
+Day 15: Practice using `openssl` commands to generate keys and encrypt data.
+Day 16: Explore `gpg` for secure communication and document signing.
+Day 17: Install and configure a VPN on Linux to understand encrypted traffic.
+Day 18: Study how `iptables` can be used to secure network communications.
+Day 19: Use Linux tools (`gpg`, `openssl`) to encrypt/decrypt files.
+Day 20: Investigate SSL/TLS certificates and their role in securing web communications.
+Day 21: Write a script using hashing functions to verify file integrity.
 
-### Week 9-12: Cryptographic Mathematics
+Week 9-12: Cryptographic Mathematics
 
-#Day 22: Explore the mathematics behind encryption (e.g., modular arithmetic).
-#Day 23: Study prime number generation and its importance in cryptography.
-#Day 24: Learn the Diffie-Hellman key exchange protocol.
-#Day 25: Study elliptic-curve cryptography (ECC) and its advantages.
-#Day 26: Understand randomness and entropy in cryptography.
-#Day 27: Explore lattice-based cryptography for post-quantum security.
-#Day 28: Implement basic modular arithmetic for RSA encryption in Python.
+Day 22: Explore the mathematics behind encryption (e.g., modular arithmetic).
+Day 23: Study prime number generation and its importance in cryptography.
+Day 24: Learn the Diffie-Hellman key exchange protocol.
+Day 25: Study elliptic-curve cryptography (ECC) and its advantages.
+Day 26: Understand randomness and entropy in cryptography.
+Day 27: Explore lattice-based cryptography for post-quantum security.
+Day 28: Implement basic modular arithmetic for RSA encryption in Python.
 
-### Week 13-16: Cryptanalysis and Breaking Ciphers
+Week 13-16: Cryptanalysis and Breaking Ciphers
 
-#Day 29: Study various cryptanalytic techniques (e.g., brute force, side-channel attacks).
-#Day 30: Learn about the breaking of Enigma and other historical breakthroughs.
-#Day 31: Explore frequency analysis to break simple ciphers.
-#Day 32: Understand modern cryptanalytic attacks like chosen ciphertext attacks.
-#Day 33: Investigate quantum cryptography and its potential to break current encryption methods.
-#Day 34: Write a program to simulate a brute force attack on a Caesar Cipher.
+Day 29: Study various cryptanalytic techniques (e.g., brute force, side-channel attacks).
+Day 30: Learn about the breaking of Enigma and other historical breakthroughs.
+Day 31: Explore frequency analysis to break simple ciphers.
+Day 32: Understand modern cryptanalytic attacks like chosen ciphertext attacks.
+Day 33: Investigate quantum cryptography and its potential to break current encryption methods.
+Day 34: Write a program to simulate a brute force attack on a Caesar Cipher.
 
-### Week 17-20: Real-World Cryptographic Applications
-#Day 35: Learn how cryptocurrencies use cryptography to secure transactions.
-#Day 36: Explore how PGP encryption secures email communications.
-#Day 37: Study how messaging apps use encryption (e.g., Signal Protocol).
-#Day 38: Investigate how VPNs encrypt data over public networks.
-#Day 39: Learn about encrypted backups and cloud storage security.
-#Day 40: Examine the encryption of biometric data in authentication systems.
-#Day 41: Write a program to generate and verify digital signatures.
+Week 17-20: Real-World Cryptographic Applications
+Day 35: Learn how cryptocurrencies use cryptography to secure transactions.
+Day 36: Explore how PGP encryption secures email communications.
+Day 37: Study how messaging apps use encryption (e.g., Signal Protocol).
+Day 38: Investigate how VPNs encrypt data over public networks.
+Day 39: Learn about encrypted backups and cloud storage security.
+Day 40: Examine the encryption of biometric data in authentication systems.
+Day 41: Write a program to generate and verify digital signatures.
 
-### Week 21-24: Cryptographic Protocols and Tools
+Week 21-24: Cryptographic Protocols and Tools
 
-#Day 42: Study the Kerberos authentication protocol.
-#Day 43: Explore OAuth and OpenID for secure API authentication.
-#Day 44: Learn about SSH and its secure remote access capabilities.
-#Day 45: Examine the TLS Handshake and key exchange process in HTTPS.
-#Day 46: Practice setting up SSH key-based authentication on Linux.
-#Day 47: Explore Public Key Infrastructure (PKI) and its role in securing communications.
-#Day 48: Automate SSH key generation and remote access setup via a script.
+Day 42: Study the Kerberos authentication protocol.
+Day 43: Explore OAuth and OpenID for secure API authentication.
+Day 44: Learn about SSH and its secure remote access capabilities.
+Day 45: Examine the TLS Handshake and key exchange process in HTTPS.
+Day 46: Practice setting up SSH key-based authentication on Linux.
+Day 47: Explore Public Key Infrastructure (PKI) and its role in securing communications.
+Day 48: Automate SSH key generation and remote access setup via a script.
 
-### Week 25-28: Advanced Cryptographic Algorithms
+Week 25-28: Advanced Cryptographic Algorithms
 
-#Day 49: Learn about AES encryption, including block cipher modes and key sizes.
-#Day 50: Explore stream ciphers (e.g., RC4) and their differences from block ciphers.
-#Day 51: Study and implement the Blowfish and Twofish algorithms.
-#Day 52: Investigate ChaCha20 and its role in modern encryption.
-#Day 53: Explore padding schemes in cryptography (e.g., PKCS7).
-#Day 54: Write a program to implement AES encryption in ECB, CBC, and CTR modes.
-#Day 55: Study hybrid encryption, combining RSA and AES in secure applications.
+Day 49: Learn about AES encryption, including block cipher modes and key sizes.
+Day 50: Explore stream ciphers (e.g., RC4) and their differences from block ciphers.
+Day 51: Study and implement the Blowfish and Twofish algorithms.
+Day 52: Investigate ChaCha20 and its role in modern encryption.
+Day 53: Explore padding schemes in cryptography (e.g., PKCS7).
+Day 54: Write a program to implement AES encryption in ECB, CBC, and CTR modes.
+Day 55: Study hybrid encryption, combining RSA and AES in secure applications.
 
-### Week 29-32: Cryptography in Blockchain and Cryptocurrencies
+Week 29-32: Cryptography in Blockchain and Cryptocurrencies
 
-#Day 56: Explore cryptography's role in blockchain transactions.
-#Day 57: Investigate cryptographic hash functions in blockchains (e.g., SHA-256 in Bitcoin).
-#Day 58: Study Merkle trees and their role in fast, secure verification of blockchain data.
-#Day 59: Learn how elliptic-curve cryptography (ECC) is used in Bitcoin and Ethereum.
-#Day 60: Study zero-knowledge proofs and their use in blockchain privacy (e.g., Zcash).
-#Day 61: Examine smart contract vulnerabilities (e.g., reentrancy attacks).
-#Day 62: Write a Python script to generate and verify blockchain-like hashes.
+Day 56: Explore cryptography's role in blockchain transactions.
+Day 57: Investigate cryptographic hash functions in blockchains (e.g., SHA-256 in Bitcoin).
+Day 58: Study Merkle trees and their role in fast, secure verification of blockchain data.
+Day 59: Learn how elliptic-curve cryptography (ECC) is used in Bitcoin and Ethereum.
+Day 60: Study zero-knowledge proofs and their use in blockchain privacy (e.g., Zcash).
+Day 61: Examine smart contract vulnerabilities (e.g., reentrancy attacks).
+Day 62: Write a Python script to generate and verify blockchain-like hashes.
 
-### Week 33-36: Secure Communication Protocols
+Week 33-36: Secure Communication Protocols
 
-#Day 63: Study the Signal Protocol for end-to-end encrypted messaging.
-#Day 64: Investigate how HTTPS secures web communications.
-#Day 65: Learn about WireGuard VPN protocol and its cryptographic foundations.
-#Day 66: Study Tor network architecture and its use of cryptography for anonymity.
-#Day 67: Explore forward secrecy in cryptographic protocols.
-#Day 68: Study email encryption protocols (e.g., S/MIME, PGP).
-#Day 69: Write a script to securely send encrypted messages between clients over a network.
+Day 63: Study the Signal Protocol for end-to-end encrypted messaging.
+Day 64: Investigate how HTTPS secures web communications.
+Day 65: Learn about WireGuard VPN protocol and its cryptographic foundations.
+Day 66: Study Tor network architecture and its use of cryptography for anonymity.
+Day 67: Explore forward secrecy in cryptographic protocols.
+Day 68: Study email encryption protocols (e.g., S/MIME, PGP).
+Day 69: Write a script to securely send encrypted messages between clients over a network.
 
-### Week 37-40: Post-Quantum Cryptography
+Week 37-40: Post-Quantum Cryptography
 
-#Day 70: Learn why quantum computing threatens classical cryptography.
-#Day 71: Study lattice-based cryptography as a quantum-resistant method.
-#Day 72: Explore the NIST post-quantum cryptography project.
-#Day 73: Study the McEliece cryptosystem and its post-quantum features.
-#Day 74: Investigate hash-based cryptography for quantum-safe encryption.
-#Day 75: Implement a simple quantum-safe encryption scheme in Python.
+Day 70: Learn why quantum computing threatens classical cryptography.
+Day 71: Study lattice-based cryptography as a quantum-resistant method.
+Day 72: Explore the NIST post-quantum cryptography project.
+Day 73: Study the McEliece cryptosystem and its post-quantum features.
+Day 74: Investigate hash-based cryptography for quantum-safe encryption.
+Day 75: Implement a simple quantum-safe encryption scheme in Python.
 
-### Week 41-44: Real-World Cryptography in Action
+Week 41-44: Real-World Cryptography in Action
 
-#Day 76: Learn how encryption secures mobile apps (e.g., securing API communications).
-#Day 77: Study the use of cryptography in IoT devices and sensors.
-#Day 78: Explore homomorphic encryption and its applications in secure computing.
-#Day 79: Investigate the use of encryption in protecting intellectual property (e.g., DRM).
-#Day 80: Study encryption in healthcare for data security (e.g., HIPAA compliance).
-#Day 81: Write a Python program that encrypts and decrypts files based on user permissions.
+Day 76: Learn how encryption secures mobile apps (e.g., securing API communications).
+Day 77: Study the use of cryptography in IoT devices and sensors.
+Day 78: Explore homomorphic encryption and its applications in secure computing.
+Day 79: Investigate the use of encryption in protecting intellectual property (e.g., DRM).
+Day 80: Study encryption in healthcare for data security (e.g., HIPAA compliance).
+Day 81: Write a Python program that encrypts and decrypts files based on user permissions.
 
-### Week 45-48: Cryptography and Artificial Intelligence
+Week 45-48: Cryptography and Artificial Intelligence
 
-#Day 82: Explore how cryptography is used in AI (e.g., encrypted machine learning models).
-#Day 83: Study how AI can break encryption through pattern recognition.
-#Day 84: Investigate federated learning and its use of encryption to secure data privacy.
-#Day 85: Study adversarial AI and how cryptographic techniques can defend against attacks.
-#Day 86: Write a simple AI model to predict encryption weaknesses.
+Day 82: Explore how cryptography is used in AI (e.g., encrypted machine learning models).
+Day 83: Study how AI can break encryption through pattern recognition.
+Day 84: Investigate federated learning and its use of encryption to secure data privacy.
+Day 85: Study adversarial AI and how cryptographic techniques can defend against attacks.
+Day 86: Write a simple AI model to predict encryption weaknesses.
 
-### Week 49-52: Final Review and Challenges
+Week 49-52: Final Review and Challenges
 
-#Day 87: Review different types of ciphers and cryptanalytic techniques.
-#Day 88: Study key management techniques and their importance in encryption.
-#Day 89: Investigate PKI implementation in cloud services.
-#Day 90: Write a program to securely generate a key, encrypt a message, and transmit it.
-#Day 91: Explore multi-factor authentication (MFA) and its use of cryptography.
-#Day 92: Write a program to generate and verify digital signatures.
-#Day 93: Explore real-world cryptographic failures (e.g., Heartbleed, Log4Shell) and learn from them.
-#Day 94: Study how data breaches occur due to improper cryptographic implementation.
-#Day 95: Write a report summarizing the cryptographic knowledge you've gained.
-#Day 96: Create a presentation on the importance of encryption in daily life.
-#Day 97: Investigate encryption in securing government communications.
-#Day 98: Write an essay on the future of cryptography and upcoming challenges.
-#Day 99: Explore recent advancements in cryptography (e.g., zero-knowledge proofs, post-quantum cryptography).
-#Day 100: Create a final project that incorporates your cryptographic knowledge (e.g., encrypted chat app, secure file transfer tool).
+Day 87: Review different types of ciphers and cryptanalytic techniques.
+Day 88: Study key management techniques and their importance in encryption.
+Day 89: Investigate PKI implementation in cloud services.
+Day 90: Write a program to securely generate a key, encrypt a message, and transmit it.
+Day 91: Explore multi-factor authentication (MFA) and its use of cryptography.
+Day 92: Write a program to generate and verify digital signatures.
+Day 93: Explore real-world cryptographic failures (e.g., Heartbleed, Log4Shell) and learn from them.
+Day 94: Study how data breaches occur due to improper cryptographic implementation.
+Day 95: Write a report summarizing the cryptographic knowledge you've gained.
+Day 96: Create a presentation on the importance of encryption in daily life.
+Day 97: Investigate encryption in securing government communications.
+Day 98: Write an essay on the future of cryptography and upcoming challenges.
+Day 99: Explore recent advancements in cryptography (e.g., zero-knowledge proofs, post-quantum cryptography).
+Day 100: Create a final project that incorporates your cryptographic knowledge (e.g., encrypted chat app, secure file transfer tool).
